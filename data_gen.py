@@ -1,6 +1,5 @@
 import streamlit as st
 import pandas as pd
-import networkx as nx
 from faker import Faker
 fake = Faker()
 
